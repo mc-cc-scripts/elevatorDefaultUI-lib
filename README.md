@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This project is deprecated as the functionality is obsolete due to the _new-ish_ elevators in Create.
+
 # elevatorDefaultUI-lib
 Provides the default UI for the [elevator](https://github.com/mc-cc-scripts/elevator-prog).
 
